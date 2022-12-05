@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://images.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/359936/A_Goofy_Movie_-_A_Movie_Title_Banner_Posters_and_Prints_aa62ac05-2452-477b-9325-3bbbfbb565c9.jpg" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/6mcaXMN.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
