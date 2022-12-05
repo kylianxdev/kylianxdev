@@ -7,7 +7,7 @@ Hi there, I'm <a target="_blank" rel="noreferrer">Kylian</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Developer 💻, entrepreneur 👨‍💼 and accountant 📄!
+I'm a Full-Stack Developer 💻, entrepreneur 👨‍💼 and accountant 📄
 </h2> 
 
 I love the entire process of developing creative programs. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
