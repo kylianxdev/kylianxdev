@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title>Kylian's GitHub Profile</title>
-  </head>
   <body>
     <h1>Hello! I'm Kylian 🙋‍♂️</h1>
     <p>I'm a full-stack developer 💻, entrepreneur 👨‍💼, and accountant 📄</p>
