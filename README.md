@@ -8,16 +8,5 @@
     <p>I also really enjoy eating 🍽 and trying out new food and cuisines.</p>
     <p>💬 Don't hesitate to reach out to me with any questions or feedback!</p>
     <h2>🔭 Currently working on</h2>
-    <ul>
-      <li>Revisiting old projects 🔙</li>
-      <li>Building Discord bots 🤖</li>
-      <li>Creating Python scripts 🐍</li>
-    </ul>
-    <h2>🌱 Currently learning</h2>
-    <ul>
-      <li>React Native for mobile development 📱</li>
-      <li>The React Context API for managing state 🧑‍💼</li>
-      <li>Styled Components for styling React components 🎨</li>
-    </ul>
   </body>
 </html>
