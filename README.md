@@ -30,7 +30,7 @@ By day I run a digital accounting firm. By night I build tools, automate workflo
 <code>PostgreSQL</code>,
 <code>FastAPI</code>,
 <code>Redis</code>,
-<code>shadcn/ui</code>
+<code>shadcn</code>
 
 <h3>🎮 Outside of work:</h3>
 <ul>
