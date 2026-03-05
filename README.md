@@ -1,63 +1,36 @@
-<h1>👋 Hi, I'm Kylian</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=800&color=00FF9D&center=true&vCenter=true&width=700&lines=Kylian+de+Groot;Full-Stack+Dev+%26+CEO+%40+Winstwaker;15h+locked+in;Shipping+every+fucking+day;No+time.+Just+code." alt="Typing SVG" />
+</div>
 
-<p>👨‍💻 <strong>Full-stack Developer</strong> • 📊 <strong>Accountant</strong> • 🚀 <strong>Entrepreneur</strong><br>
-🎯 Founder of <a href="https://winstwaker.nl" target="_blank">Winstwaker</a> — modern bookkeeping for ambitious entrepreneurs.
-</p>
+<br />
 
-<hr>
+<div align="center">
+  <a href="https://winstwaker.nl"><img src="https://img.shields.io/badge/Winstwaker-Official-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kyliandegroot"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
-<p>
-I combine code, business, and finance to build scalable solutions that simplify life.  
-By day I run a digital accounting firm. By night I build tools, automate workflows, and push boundaries using Python, JavaScript, and modern frameworks.
-</p>
+<br />
 
-<h3>💡 I'm passionate about:</h3>
-<ul>
-  <li>Automating business processes (especially bookkeeping and finance)</li>
-  <li>Building SaaS platforms with Next.js, Bun, Supabase, and Turbo</li>
-  <li>API integrations (Exact Online, OpenAI, banking APIs)</li>
-  <li>Designing clean, intuitive user experiences</li>
-  <li>Turning ideas into profitable products</li>
-</ul>
+## 🔥 15h/day locked in @ Winstwaker
+Building AI-powered bookkeeping.  
+Shipping daily. No weekends. No distractions.
 
-<h3>🧠 Tech Stack:</h3>
-<code>TypeScript</code>,
-<code>Python</code>,
-<code>Next.js</code>,
-<code>TailwindCSS</code>,
-<code>Docker</code>,
-<code>Supabase</code>,
-<code>PostgreSQL</code>,
-<code>FastAPI</code>,
-<code>Redis</code>,
-<code>shadcn</code>
+**Currently pushing:**
+- AI receipt & invoice engine
+- Real-time bank reconciliation
+- Next.js 15 client portal
 
-<h3>🎮 Outside of work:</h3>
-<ul>
-  <li>Racing on iRacing as part of Winstwaker Racing 🏁</li>
-  <li>Experimenting with AI agents and automations 🤖</li>
-  <li>Exploring new BBQ recipes or fine-tuning my aquarium 🐠</li>
-</ul>
+## 🛠 Tech I live in
+TypeScript • Next.js • Bun • Supabase • FastAPI • Tailwind • Docker • PostgreSQL • Python • Redis
 
-<hr>
+## 📊 Proof I'm locked in
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kylianxdev&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kylianxdev&theme=radical&hide_border=true" width="49%" />
+</div>
 
-<h3>📬 Reach out if you:</h3>
-<ul>
-  <li>Are building a startup and need a dev-accountant hybrid</li>
-  <li>Want to automate boring business tasks</li>
-  <li>Love talking about code, taxes, or tools</li>
-</ul>
+## 🚀 Shipping right now
 
-<h3>🔧 Currently building:</h3>
-<ul>
-  <li>A digital accounting portal for Winstwaker clients</li>
-  <li>An AI assistant for processing receipts and invoices</li>
-  <li>Real-time tools for classifying and reconciling transactions</li>
-</ul>
+No time for talk. Back in the code.
 
-<hr>
-
-<p>
-📍 Based: Netherlands ↔ Belgium<br>
-🔗 <a href="https://www.linkedin.com/in/kyliandegroot" target="_blank">LinkedIn</a>
-</p>
+Winstwaker.nl
