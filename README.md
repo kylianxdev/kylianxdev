@@ -1,59 +1,51 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=800&color=00FF9D&center=true&vCenter=true&width=800&lines=Kylian+de+Groot;Full-Stack+Dev+%26+CEO+%40+Winstwaker;15h%2Fday+Locked+In;Shipping+every+fucking+day;No+time.+Just+code." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:00C853,100:00FF9D&text=Kylian%20de%20Groot&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20Winstwaker%20%7C%20Full-Stack%20%7C%20AI%20Automation&descAlignY=58" />
 </div>
 
 <div align="center">
-  <a href="https://winstwaker.nl"><img src="https://img.shields.io/badge/Winstwaker-CEO-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/kyliandegroot"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=900&color=00FF9D&center=true&vCenter=true&width=900&lines=Building+Winstwaker;AI+bookkeeping+%2B+automation;Founder+mode%3A+ON;Locked+in+on+shipping;No+theory.+Just+systems." alt="Typing SVG" />
 </div>
 
 <br />
 
-> **⚠️ WARNING:** Proceed with caution. You have entered a 15h/day no-distraction zone. Weekends are a myth. We ship or we die trying.
-
----
-
-## 🏢 MISSION: WINSTWAKER
-Building the future of AI-powered bookkeeping. Real-time, relentless, and ruthless execution. 
-
-🔥 **Currently pushing to production:**
-- 🧠 **AI Engine:** Next-gen receipt & invoice parsing.
-- 🏦 **FinOps:** Real-time bank reconciliation without the bullshit.
-- ⚡ **Client Portal:** Blazing fast Next.js 15 interface.
-
----
-
-## ⚙️ WEAPONS OF CHOICE
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,bun,supabase,fastapi,tailwind,docker,postgres,python,redis&perline=10&theme=dark" />
+  <a href="https://winstwaker.nl">
+    <img src="https://img.shields.io/badge/Winstwaker-Live-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/kyliandegroot">
+    <img src="https://img.shields.io/badge/LinkedIn-Kylian%20de%20Groot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:info@winstwaker.nl">
+    <img src="https://img.shields.io/badge/Email-Build%20with%20me-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kylianxdev&label=Profile%20views&color=00C853&style=flat" />
 </div>
 
 ---
 
-## 📊 PROOF OF THE GRIND
+## `whoami.ts`
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kylianxdev&theme=radical&no-frame=true&no-bg=true&margin-w=15" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kylianxdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kylianxdev&theme=radical&hide_border=true&background=0D1117" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylianxdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" />
-</div>
-
----
-
-<div align="center">
-  <h3>🚀 Less talking. More pushing.</h3>
-  <p>Track the progress at <a href="https://winstwaker.nl"><b>Winstwaker.nl</b></a></p>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=100&section=footer" />
-</div>
+```ts
+const kylian = {
+  role: "Founder @ Winstwaker",
+  focus: [
+    "AI bookkeeping workflows",
+    "Receipt + invoice extraction",
+    "Real-time reconciliation",
+    "Client portals that actually feel good"
+  ],
+  stack: [
+    "TypeScript",
+    "Next.js",
+    "Python",
+    "FastAPI",
+    "Supabase",
+    "PostgreSQL",
+    "Redis",
+    "Docker"
+  ],
+  mindset: "Ship fast. Automate boring work. Keep the product clean."
+}
