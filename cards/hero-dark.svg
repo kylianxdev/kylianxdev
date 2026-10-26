@@ -20,7 +20,6 @@
 
   <text class="m lbl" x="48" y="52">HI, I&#39;M</text>
   <text class="m fg" x="46" y="116" font-size="52" letter-spacing="-1.5">kylian de groot</text>
-  <text class="s mu" x="48" y="152" font-size="22">software builder</text>
   <line x1="48" y1="182" x2="832" y2="182" stroke="rgb(232,232,228)" stroke-opacity="0.12"/>
   <text class="m lbl" x="48" y="208">NOW</text>
   <text class="m fg" x="48" y="234" font-size="13">winstwaker</text>
