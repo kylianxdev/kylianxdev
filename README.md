@@ -2,23 +2,23 @@
      edit /home/ubuntu/kdg-profile/build.js and run `node build.js`. -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cards/hero-dark.svg?v=7ea42d0c9944aec8">
-  <img alt="Kylian de Groot" src="cards/hero-light.svg?v=7ea42d0c9944aec8" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="cards/hero-dark.svg?v=b76bd67b3864ef15">
+  <img alt="Kylian de Groot" src="cards/hero-light.svg?v=b76bd67b3864ef15" width="880">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cards/work-dark.svg?v=7ea42d0c9944aec8">
-  <img alt="What I do: building products, software and apis, automation, synthetic data" src="cards/work-light.svg?v=7ea42d0c9944aec8" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="cards/work-dark.svg?v=b76bd67b3864ef15">
+  <img alt="What I do: building products, software and apis, automation, synthetic data" src="cards/work-light.svg?v=b76bd67b3864ef15" width="880">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cards/heat-dark.svg?v=7ea42d0c9944aec8">
-  <img alt="GitHub contributions" src="cards/heat-light.svg?v=7ea42d0c9944aec8" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="cards/heat-dark.svg?v=b76bd67b3864ef15">
+  <img alt="GitHub contributions" src="cards/heat-light.svg?v=b76bd67b3864ef15" width="880">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cards/langs-dark.svg?v=7ea42d0c9944aec8">
-  <img alt="Languages" src="cards/langs-light.svg?v=7ea42d0c9944aec8" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="cards/langs-dark.svg?v=b76bd67b3864ef15">
+  <img alt="Languages" src="cards/langs-light.svg?v=b76bd67b3864ef15" width="880">
 </picture>
 
 ### elsewhere
