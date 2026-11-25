@@ -2,27 +2,27 @@
      edit /home/ubuntu/kdg-profile/build.js and run `node build.js`. -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cards/hero-dark.svg?v=a937a989314aeb1e">
-  <img alt="Kylian de Groot" src="cards/hero-light.svg?v=a937a989314aeb1e" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="cards/hero-dark.svg?v=528722140981df20">
+  <img alt="Kylian de Groot" src="cards/hero-light.svg?v=528722140981df20" width="880">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cards/work-dark.svg?v=a937a989314aeb1e">
-  <img alt="What I do: building products, software and apis, automation, synthetic data" src="cards/work-light.svg?v=a937a989314aeb1e" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="cards/work-dark.svg?v=528722140981df20">
+  <img alt="What I do: building products, software and apis, automation, synthetic data" src="cards/work-light.svg?v=528722140981df20" width="880">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cards/heat-dark.svg?v=a937a989314aeb1e">
-  <img alt="GitHub contributions" src="cards/heat-light.svg?v=a937a989314aeb1e" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="cards/heat-dark.svg?v=528722140981df20">
+  <img alt="GitHub contributions" src="cards/heat-light.svg?v=528722140981df20" width="880">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="cards/langs-dark.svg?v=a937a989314aeb1e">
-  <img alt="Languages" src="cards/langs-light.svg?v=a937a989314aeb1e" width="880">
+  <source media="(prefers-color-scheme: dark)" srcset="cards/langs-dark.svg?v=528722140981df20">
+  <img alt="Languages" src="cards/langs-light.svg?v=528722140981df20" width="880">
 </picture>
 
 ### elsewhere
 
 [kyliandegroot.com](https://kyliandegroot.com) · [winstwaker.nl](https://www.winstwaker.nl) · [linkedin](https://www.linkedin.com/in/kyliandegroot) · [prive@kyliandegroot.com](mailto:prive@kyliandegroot.com)
 
-<p><sub>Cards generated from the real numbers, updated 2026-11-24. Fonts are embedded in the SVG, nothing loads externally.</sub></p>
+<p><sub>Cards generated from the real numbers, updated 2026-11-25. Fonts are embedded in the SVG, nothing loads externally.</sub></p>
